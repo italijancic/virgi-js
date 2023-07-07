@@ -1,0 +1,56 @@
+[
+    {   
+        "name": "iPhone x",
+        "price": 560,
+        "image":"https://www.itzoo.sk/resize/e/440/440/files/produkty---hlavne-foto/iphone-xs-64-biely-itzoo.jpg"
+    },
+
+    {
+        "name":"iPhone XR",
+        "price":600,
+        "image":"https://http2.mlstatic.com/D_NQ_NP_2X_641854-MLA46544656693_062021-F.webp"
+    },
+
+    {
+        "name":"iPhone 11",
+        "price":690,
+        "image":"https://http2.mlstatic.com/D_NQ_NP_2X_876679-MLA46114829792_052021-F.webp"
+    },
+
+    {
+        "name":"iPhone 12",
+        "price":799,
+        "image":"https://m.media-amazon.com/images/I/71hIfcIPyxS._AC_SX522_.jpg"
+    },
+
+    {
+        "name":"iPhone 13",
+        "price":850,
+        "image":"https://http2.mlstatic.com/D_NQ_NP_2X_654080-MLA47781882564_102021-F.webp"   
+    },
+
+    {
+        "name":"iPhone 13 PRO",
+        "price":1000,
+        "image":"https://http2.mlstatic.com/D_NQ_NP_2X_640945-MLA47778929198_102021-F.webp"   
+    },
+
+    {
+        "name":"iPhone 14",
+        "price":900,
+        "image":"https://http2.mlstatic.com/D_NQ_NP_2X_881016-MLM51559383738_092022-F.webp"   
+    },
+
+    {
+        "name":"iPhone 14 PRO",
+        "price":1150,
+        "image":"https://http2.mlstatic.com/D_NQ_NP_2X_651710-MLM51559386433_092022-F.webp" 
+    },
+
+    {
+        "name":"iPhone 14 PRO MAX",
+        "price":1350,
+        "image":"https://http2.mlstatic.com/D_NQ_NP_2X_782867-MLA69912981355_062023-F.webp"  
+    }
+
+]
